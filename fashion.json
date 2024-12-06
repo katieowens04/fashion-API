@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Summer Fashion",
+        "description": "Bright colors and lightweight fabrics are dominating this season.",
+        "height": "180 cm",
+        "weight": "70 kg",
+        "image": "https://via.placeholder.com/300?text=Summer+Fashion"
+    },
+    {
+        "id": 2,
+        "name": "Sustainable Fashion",
+        "description": "Eco-friendly and sustainable clothing options are gaining popularity.",
+        "height": "175 cm",
+        "weight": "65 kg",
+        "image": "https://via.placeholder.com/300?text=Sustainable+Fashion"
+    },
+    {
+        "id": 3,
+        "name": "Streetwear Essentials",
+        "description": "Explore the timeless appeal of casual, everyday streetwear styles.",
+        "height": "182 cm",
+        "weight": "72 kg",
+        "image": "https://via.placeholder.com/300?text=Streetwear+Essentials"
+    }
+]
